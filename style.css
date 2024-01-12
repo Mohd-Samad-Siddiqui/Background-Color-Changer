@@ -1,0 +1,46 @@
+html {
+  height: 100%;
+  width: 100%;
+}
+
+.main {
+  text-align: center;
+  margin-top: 50px;
+}
+
+.colorPallets{
+  padding: 10px 5px;
+  display: flex;
+  justify-content: space-around;
+}
+
+.firstColor{
+  height: 50px;
+  width: 50px;
+  background-color: #D98880;
+}
+
+.secondColor{
+  height: 50px;
+  width: 50px;
+  background-color: #A9DFBF;
+}
+
+.thirdColor{
+  height: 50px;
+  width: 50px;
+  background-color: #5DADE2;
+}
+
+.fourthColor{
+  height: 50px;
+  width: 50px;
+  background-color: #CCD1D1;
+}
+
+.detail{
+  padding: 0 25px;
+}
+
+
+
