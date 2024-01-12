@@ -18,24 +18,28 @@ html {
   height: 50px;
   width: 50px;
   background-color: #D98880;
+  border: 2px solid #fff;
 }
 
 .secondColor{
   height: 50px;
   width: 50px;
   background-color: #A9DFBF;
+  border: 2px solid #fff;
 }
 
 .thirdColor{
   height: 50px;
   width: 50px;
   background-color: #5DADE2;
+  border: 2px solid #fff;
 }
 
 .fourthColor{
   height: 50px;
   width: 50px;
   background-color: #CCD1D1;
+  border: 2px solid #fff;
 }
 
 .detail{
